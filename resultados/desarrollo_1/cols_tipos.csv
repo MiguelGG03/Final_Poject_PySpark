@@ -1,0 +1,103 @@
+,tipo
+id_pto_calidad,int64
+nombre_estacion,object
+ALTITUD,int64
+tipo_estacion_id,object
+fecha,object
+Calidad_NO2,float64
+Pto_trafico2,float64
+Pto_trafico1,float64
+Pto_trafico4,int64
+Pto_trafico5,int64
+Pto_trafico3,int64
+Distancia_Pto_trafico2,float64
+Distancia_Pto_trafico1,float64
+Distancia_Pto_trafico4,float64
+Distancia_Pto_trafico5,float64
+Distancia_Pto_trafico3,float64
+Intensidad_Pto_trafico1,float64
+Intensidad_Pto_trafico2,float64
+Intensidad_Pto_trafico3,float64
+Intensidad_Pto_trafico4,float64
+Intensidad_Pto_trafico5,float64
+Carga_Pto_trafico2,float64
+Carga_Pto_trafico1,float64
+Carga_Pto_trafico4,float64
+Carga_Pto_trafico5,float64
+Carga_Pto_trafico3,float64
+Intensidad_mediaR1_500,float64
+Intensidad_mediaR2_500_750,float64
+Intensidad_mediaR3_750_1000,float64
+Intensidad_mediaR4_1000_1500,float64
+Intensidad_mediaR5_1500_2000,float64
+Intensidad_mediaR6_2000,float64
+Intensidad_minR1_500,float64
+Intensidad_minR2_500_750,float64
+Intensidad_minR3_750_1000,float64
+Intensidad_minR4_1000_1500,float64
+Intensidad_minR5_1500_2000,float64
+Intensidad_minR6_2000,float64
+Intensidad_maxR1_500,float64
+Intensidad_maxR2_500_750,float64
+Intensidad_maxR3_750_1000,float64
+Intensidad_maxR4_1000_1500,float64
+Intensidad_maxR5_1500_2000,float64
+Intensidad_maxR6_2000,float64
+Carga_mediaR1_500,float64
+Carga_mediaR2_500_750,float64
+Carga_mediaR3_750_1000,float64
+Carga_mediaR4_1000_1500,float64
+Carga_mediaR5_1500_2000,float64
+Carga_mediaR6_2000,float64
+Carga_minR1_500,float64
+Carga_minR2_500_750,float64
+Carga_minR3_750_1000,float64
+Carga_minR4_1000_1500,float64
+Carga_minR5_1500_2000,float64
+Carga_minR6_2000,float64
+Carga_maxR1_500,float64
+Carga_maxR2_500_750,float64
+Carga_maxR3_750_1000,float64
+Carga_maxR4_1000_1500,float64
+Carga_maxR5_1500_2000,float64
+Carga_maxR6_2000,float64
+temp_c,float64
+is_day,int64
+wind_kph,float64
+wind_degree,int64
+wind_dir,object
+pressure_mb,int64
+precip_mm,float64
+humidity,int64
+cloud,int64
+feelslike_c,float64
+windchill_c,float64
+heatindex_c,float64
+dewpoint_c,float64
+will_it_rain,int64
+chance_of_rain,int64
+will_it_snow,int64
+chance_of_snow,int64
+vis_km,float64
+festivo,int64
+anyo,int64
+mes,int64
+dia,int64
+hora,int64
+diasemana,int64
+Activity Period,int64
+Operating Airline,object
+Operating Airline IATA Code,object
+Published Airline,object
+Published Airline IATA Code,object
+GEO Summary,object
+GEO Region,object
+Activity Type Code,object
+Price Category Code,object
+Terminal,object
+Boarding Area,object
+Passenger Count,int64
+Adjusted Activity Type Code,object
+Adjusted Passenger Count,int64
+Year,int64
+Month,object
